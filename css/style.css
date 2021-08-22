@@ -1,0 +1,351 @@
+/* Fontes Utilizadas no Site */
+@font-face {
+	font-family: 'Arial', sans-serif;
+}
+
+h3 {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: lighter;
+	text-align: left;
+	margin-top: 40px;
+	text-transform: unset;
+	line-height: 1.25;
+}
+
+/* Menu Site */
+
+.header {
+	
+	height: 50px;
+	background: #000000;
+	float: center;	
+	
+}
+
+.header p {
+	font-family: Lato;
+	font-size: 14px;
+	text-align: left;
+	margin-top: 21px;
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.menu-topo {
+	text-align: right;	
+	color: #ffffff;
+	margin-right: 150px;
+	display: block;
+	margin-top: -15px;
+
+	
+
+}
+
+.menu-topo li {
+	display: inline-block;
+	margin-left: 20px; 
+} 
+
+.menu-topo li a {
+	text-align: right;
+	text-decoration: none;
+	font-family: Lato;
+	font-size: 15px;
+	font-weight: bold;
+	color: #ffffff;
+	text-transform: uppercase;
+
+}
+.menu-topo li a:hover {
+	transition: 0.5s all;
+	color: #822C8C;
+}
+
+/* Banner */
+
+.banner {
+	width: 100%;
+	height: 450px;
+	background-size: cover;
+	text-align: center;
+
+}
+
+.banner img {
+	width: 100%;
+	height: 100%;
+
+}
+
+/* Informações */
+
+.informacoes {
+	width: 100%;
+	height: 400px;
+}
+
+.informacoes img {
+	margin-top: 40px;
+	margin-left: -20px;
+}
+
+.informacoes p {
+	text-align: justify;
+	font-family: Lato;
+}
+
+.somosaguia h3 {
+	font-weight: bold;
+
+}
+
+.somosaguia {
+	width: 300px;
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+
+
+
+.tabprecos img {
+	
+	height: 250px;
+	margin-left: 50px;
+	;
+}
+
+/* Video Higienização */
+
+.galeria {
+	background: #715565;
+	height: 400px;
+	margin-bottom: 20px;
+	color: #ffffff;
+
+}
+
+.textoservicos h3 {
+	font-family: Lato;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	margin-left: 250px;
+	
+	
+}
+
+.textoservicos p {
+	width: 450px;
+	text-align: justify;
+	font-family: Lato;
+	font-size: 14px;
+	font-weight: lighter;
+	margin-left: 250px;
+	margin-top: 15px;
+	display: block;
+	float: left;
+	text-transform: unset;
+	line-height: 1.25;
+	margin-top: 30px;
+}
+
+.galeria video {
+	margin-left: 90px;
+}
+
+
+
+/* Vídeo Polimento */
+
+.polimento {
+	background: #715565;
+	height: 400px;
+	margin-bottom: 20px;
+	color: #ffffff;
+
+}
+
+.textopolimento h3 {
+	font-family: Lato;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	margin-left: 250px;
+	
+	
+}
+
+.textopolimento p {
+	width: 450px;
+	text-align: justify;
+	font-family: Lato;
+	font-size: 14px;
+	font-weight: lighter;
+	margin-left: 250px;
+	margin-top: 15px;
+	display: block;
+	float: left;
+	text-transform: unset;
+	line-height: 1.25;
+	margin-top: 30px;
+}
+
+
+
+
+/* Marcas */
+
+
+.marcas img {
+	width: 125px;
+	height: 60px;
+	
+}
+
+.a {
+	margin-left: 0px;
+}
+
+.b {
+	margin-left: 200px;
+}
+
+.c {
+	margin-left: 420px;
+}
+
+.d {
+	margin-left: 650px;
+
+}
+
+.e {
+	margin-left: 850px;
+	
+}
+
+
+
+
+.marcas h2 {
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.marcas p {
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: lighter;
+	text-transform: unset;
+	margin-top: 10px;
+	text-align: center;
+	color: black;
+}
+
+.marcas {
+	height: 435px;
+	background: #e7e7e7;
+}
+
+.logos {
+	margin-top: 70px;
+	text-align: center;
+	-moz-transform: all	0.7s;
+	-webkit-transform: all	0.7s;
+	transform: all	0.7s;
+	transition-duration: 1s
+}
+
+.logos:hover {
+	-moz-transform: scale(0.1);
+	-webkit-transform: scale(0.1);
+	transform: scale(1.2);
+}
+
+.logos {
+	padding: 40px;
+	margin-top: -50px;
+	margin-right: 20px;
+}
+
+
+	/* Localização */
+
+
+
+.info {
+	height: 350px;
+	margin-top: 20px;
+}
+
+.info h3 {
+	font-family: Lato;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.info h4 {
+	font-family: Lato;
+	font-size: 18px;
+	margin-top: 25px;
+
+}
+.info img {
+	margin-top: 20px;
+	margin-right: 40px;
+	margin-left: 40px;
+	
+}
+
+
+.mapagoogle {
+	margin-top: -300px;
+	text-align: center;
+	margin-left: 600px;
+	margin-right: 100px;
+}
+
+.mapagoogle p {
+	margin-top: 20px;
+	margin-left: 800px;
+}
+
+.img shaking-wpp {
+	animation: shake 2s infinite;
+}
+
+@media screen and (max-width: 600px) {
+ 
+
+/* Rodapé */
+
+
+
+.assinatura {
+	background: #000;
+	height: 50px;
+}
+
+.assinatura h2 {
+	margin-top: 5px;
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: Lato;
+	font-size: 10px;
+	font-weight: lighter;
+	color: #fff;
+}
+
+
+.assinatura img {
+	margin-left: 960px;
+	margin-top: -50px;
+}

@@ -1,0 +1,201 @@
+/* Tablet */
+
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+
+/* Localização */
+
+	
+}
+
+/* Celular */
+
+@media only screen and (max-width: 787px) {
+	
+/* Topo Menu */
+
+	.header {
+		position: relative;
+		height: 200px;	
+	}
+
+	.header p {
+		font-size: 12px;
+		margin-left: 30px;
+	}
+
+	.menu-topo ul li a{
+		display: block;
+		text-align: center;
+		padding: 5px;
+		border: 3px solid #ffffff;
+		border-radius: 15px;
+		width: 100px;
+		margin-top: 15px;
+		margin-left: 130px;
+
+	}
+
+	.header img {
+		margin-left: 100px;
+		margin-bottom: 10px;
+	}
+
+
+/* Banner do Site */
+
+	.banner {
+		height: 100px;
+		width: auto;
+		margin-bottom: 40px;
+		
+	}
+
+	.banner img {
+		height: auto;
+		width: 100%;
+		
+	}
+
+	/* Informaões */
+
+	.informacoes {
+		height: 950;
+	}
+
+	.informacoes img {
+		margin-left: : 40px;
+	}
+
+	.somosaguia {
+		margin-left: -20px;
+
+	}
+
+	.tabprecos img {
+		margin-left: -50px;
+
+	}
+
+	
+
+	/* Vídeo Higienização */
+
+	.galeria {
+		margin-top: 80px;
+		width: auto;
+		height: 630px;
+		margin-bottom: 10px;
+	}
+
+	
+
+	.textoservicos h3 {
+		text-align: center;
+		margin-top: 10px;
+		margin-left: 10px;
+	}
+
+	.textoservicos p {
+		margin-bottom: 20px;
+		margin-left: 20px;
+	}
+
+	.galeria video {
+		width: 350px;
+	}
+
+
+
+/* Vídeo Polimento */
+
+	.polimento {
+		margin-top: 15px;
+		width: auto;
+		height: 500px;
+		margin-bottom: 5px;
+	}
+
+	
+
+	.textopolimento h3 {
+		text-align: center;
+		margin-top: 10px;
+		margin-left: 10px;
+	}
+
+	.textopolimento p {
+		margin-bottom: 20px;
+		margin-left: 20px;
+	}
+
+	.polimento video {
+		width: 350px;
+	}
+
+/* Marcas */ 
+
+.marcas {
+	width: 100%;
+	height: 520px;
+}
+.marcas img {
+	width: 125px;
+	height: 60px;
+	
+}
+
+.a {
+	margin-left: 80px;
+	margin-top: 15px;
+}
+
+.b {
+	margin-left: 80px;
+	margin-top: 15px;
+}
+
+.c {
+	margin-left: 80px;
+	margin-top: 15px;
+}
+
+.d {
+	margin-left: 80px;
+	margin-top: 15px;
+
+}
+
+.e {
+	margin-left: 80px;
+	margin-top: 15px;
+	
+}
+
+/* Info */
+
+	.info {
+		height: 600px;
+		margin-left: 70px;
+		margin-bottom: 150px;
+		
+	}
+
+
+	.mapagoogle {
+		margin-left: -45px;
+		margin-right: 10px;
+		width: 100%;
+		margin-bottom: 520px;
+		height: 250px;
+		margin-top: 50px;
+	}
+
+
+
+	/* Rodapé */
+
+	.footer {
+		width: 100%;
+		height: 300px;
+		margin-top: 50px;
+	}
