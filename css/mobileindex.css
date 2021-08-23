@@ -133,6 +133,50 @@
 		width: 350px;
 	}
 
+
+/* VITRIFICAÇÃO */
+
+.vitrificacao {
+	margin-top: 15px;
+	width: auto;
+	height: 500px;
+	margin-bottom: 5px;
+}
+
+.texto-vitrificacao h3 {
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.texto-vitrificacao p {
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+
+/* LAVAGEM DE MOTOR */
+
+.motor {
+	margin-top: 15px;
+	width: auto;
+	height: 500px;
+	margin-bottom: 5px;
+}
+
+.texto-motor h3 {
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.texto-motor p {
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+
+
 /* Marcas */ 
 
 .marcas {
