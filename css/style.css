@@ -15,6 +15,7 @@ h3 {
 
 /* Menu Site */
 
+
 .header {
 	
 	height: 50px;
@@ -122,7 +123,7 @@ h3 {
 
 .galeria {
 	background: #715565;
-	height: 400px;
+	height: 440px;
 	margin-bottom: 20px;
 	color: #ffffff;
 
@@ -207,23 +208,31 @@ h3 {
 }
 
 .a {
+	margin-top: 25px;
 	margin-left: 0px;
 }
 
 .b {
-	margin-left: 200px;
+	margin-top: 20px;
 }
 
 .c {
+	margin-top: -151px;
 	margin-left: 420px;
 }
 
 .d {
-	margin-left: 650px;
-
+	margin-top: 20px;
+	margin-left: 420px;
 }
 
 .e {
+	margin-top: -150px;
+	margin-left: 850px;
+}
+
+.f {
+	margin-top: 20px;
 	margin-left: 850px;
 	
 }
@@ -246,12 +255,13 @@ h3 {
 	font-weight: lighter;
 	text-transform: unset;
 	margin-top: 10px;
+	margin-bottom: 30px;
 	text-align: center;
 	color: black;
 }
 
 .marcas {
-	height: 435px;
+	height: 350px;
 	background: #e7e7e7;
 }
 
@@ -307,7 +317,7 @@ h3 {
 
 
 .mapagoogle {
-	margin-top: -300px;
+	margin-top: -340px;
 	text-align: center;
 	margin-left: 600px;
 	margin-right: 100px;
