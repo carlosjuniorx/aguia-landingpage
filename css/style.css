@@ -309,6 +309,30 @@ h3 {
    #slider-image-6:target ~ .image-container{
 	left: -1600px;
    }
+   #slider-image-7:target ~ .image-container{
+	left: -1920px;
+   }
+   #slider-image-8:target ~ .image-container{
+	left: -2240px;
+   }
+   #slider-image-9:target ~ .image-container{
+	left: -2560px;
+   }
+   #slider-image-10:target ~ .image-container{
+	left: -2880px;
+   }
+   #slider-image-11:target ~ .image-container{
+	left: -3200px;
+   }
+   #slider-image-12:target ~ .image-container{
+	left: -3520px;
+   }
+   #slider-image-13:target ~ .image-container{
+	left: -3840px;
+   }
+   #slider-image-14:target ~ .image-container{
+	left: -4160px;
+   }
 
 
 /* Marcas */
